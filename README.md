@@ -82,8 +82,22 @@ python main_PET.py
 ```bash
 python main_SPECT.py
 ```
+## PBFNet-U
+### Testing
+by executing the command:
+```bash
+python model_test.py
+```
+The trained PBFNet-U model can be used for testing.
+### Training
+To retrain PBFNet-U, do:
+```bash
+python main.py
+```
 ## Please note:
 Before running all programs, please make sure that you have downloaded the relevant data and saved it under 
 the correct path. There are various parameter options set up in the program, I have set them up beforehand, 
 if you have any changes, please modify them yourself. Test results on different devices may vary slightly.
+
+
 
