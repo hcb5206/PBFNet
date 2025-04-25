@@ -1,0 +1,4 @@
+names: ['person', 'bicycle', 'car']
+nc: 3
+train: /home/he107552203884/MM_IMAGE_FUSION/VIF/Resnet_JointAE_VIF/data/PBFNet
+val: /home/he107552203884/MM_IMAGE_FUSION/VIF/Resnet_JointAE_VIF/data/PBFNet
