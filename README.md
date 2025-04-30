@@ -40,11 +40,6 @@ To retrain PBFNet, do:
 ```bash
 python main.py
 ```
-### Semantic segmentation
-To get the semantic segmentation results on the MEF task, run the predict.py file in the DeepLabV3Plus folder:
-```bash
-python predict.py
-```
 ## VIF
 ### Testing
 To get the test results, run it directly:
